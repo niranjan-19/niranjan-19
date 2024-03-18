@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full stack Developer in making. I am student at Diploma in Advanced Computing in CDAC , India<br>I have keen interest in new technologies and am eager to learn new things
+I am Full stack Developer.<br>I have keen interest in new technologies and am eager to learn new things
 
 
 ## 🌐 Socials:
