@@ -15,6 +15,9 @@ I am Full stack Developer.<br>I have keen interest in new technologies and am ea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=niranjan-19&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Leetcode Stats 
+![Niranjan's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/Niranjan_19?theme=dark&bgColor=282828)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
